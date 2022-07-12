@@ -6,7 +6,7 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
 ### Existing Features
 - __Navigation Bar__
-    - The fully responsive navigation bar is featured in the upper right hand side of the website on each page, including Home, History, Gallery and Contact Us.
+    - The fully responsive navigation bar is featured in the upper right hand side of the website on each page, including Home, Gallery and Contact Us.
     - The current page you are on is underlined in the navigation bar, helping the user understand which part of the website they're on.
     - The access to each page in the navigation bar means using the back and forwards button on the user's browser is unneeded. 
 

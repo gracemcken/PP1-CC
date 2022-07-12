@@ -23,9 +23,6 @@ body {
  }
 /* navigation bar */
 
-.header {
-    
-}
 
 #menu {
     font-size: 110%;
@@ -69,10 +66,6 @@ body {
     min-height: 30em;
     height: 60%;
 
-}
-
-.about-us {
-    
 }
 
 .sidebar {
