@@ -18,6 +18,9 @@ body {
     color: #3a3a3a;
  }
 
+ hr {
+    color: #3a3a3a;
+ }
 /* navigation bar */
 
 .header {
@@ -30,10 +33,12 @@ body {
     margin-bottom: 1em;
     text-transform: uppercase;
     line-height: 1.5em;
+    display: inline-flex;
+    justify-content: flex-end;
 }
 
 #menu li {
-    display: inline-flex;
+    
     list-style-type: none;
 }
 
@@ -51,6 +56,9 @@ body {
         border-bottom: 1px solid #3a3a3a;
     }
     
+.header > ul {
+    padding-inline-start: 10px;
+}    
     /* hero image */
 .hero {
     background: url(../images/dunes1.jpeg) no-repeat center center;
