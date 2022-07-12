@@ -38,3 +38,6 @@ main {
     background: #616161;
 }
 
+iframe {
+    width: 100%;
+}
