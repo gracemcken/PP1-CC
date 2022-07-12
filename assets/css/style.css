@@ -3,7 +3,7 @@
 main, header, section, aside, footer {
     margin: 0;
     padding: 20px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
     color: #3a3a3a;
 }
 
@@ -24,7 +24,7 @@ body {
 /* navigation bar */
 
 .header {
-    background: #03a9f4;
+    
 }
 
 #menu {
@@ -72,12 +72,11 @@ body {
 }
 
 .about-us {
-    background: #129a22;
+    
 }
 
 .sidebar {
     border: 1px solid #000000;
-    background: #673ab7;
     text-align: center;
 }
 
