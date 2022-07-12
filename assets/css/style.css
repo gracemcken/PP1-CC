@@ -4,7 +4,7 @@ main, header, section, aside, footer {
     margin: 0;
     padding: 20px;
     border: 1px solid #000000;
-    color: #ffffff;
+    color: #3a3a3a;
 }
 
 body {
@@ -17,14 +17,41 @@ body {
     font-weight: 500;
     color: #3a3a3a;
  }
-main {
-    background: #000000;
-}
+
+/* navigation bar */
 
 .header {
     background: #03a9f4;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 0.1em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+
+#menu li {
+    display: inline-flex;
+    list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header > ul li:not(:last-child):after {
+    content: "|";
+    padding-left: .1em;
+    }
+    
+    .active {
+        border-bottom: 1px solid #3a3a3a;
+    }
+    
+    /* hero image */
 .hero {
     background: url(../images/dunes1.jpeg) no-repeat center center;
     background-size: cover;
