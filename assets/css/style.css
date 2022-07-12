@@ -14,7 +14,14 @@ main {
 }
 
 .hero {
-    background: #d22b1f;
+    background: url(../images/dunes1.jpeg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    min-height: 30em;
+    height: 60%;
+
 }
 
 .about-us {
@@ -30,3 +37,4 @@ main {
     border: 1px solid #000000;
     background: #616161;
 }
+
