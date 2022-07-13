@@ -100,5 +100,48 @@ display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 2%;
+}
+
+#socials {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
     text-align: center;
+}
+
+#socials > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#socials li {
+    display: inline-flex;
+    padding-right: 1em;
+    padding-left: 1em;
+    
+}
+#socials a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+#socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+}
+
+#socials a:hover {
+    color: silver;
+}
+
+.copyright {
+    float: left;
+   font-size: 14px;
+   word-spacing: 2px;
 }
