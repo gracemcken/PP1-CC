@@ -241,16 +241,12 @@ body {
     text-align: center;
 }
 
-.footer {
-    border: 1px solid #000000;
-    background: #616161;
-}
-
 iframe {
     width: 100%;
 }
 
 /* footer */
+
 
 .footer {
 display: flex;
@@ -258,7 +254,10 @@ display: flex;
     justify-content: center;
     flex-direction: column;
     padding: 2%;
+    border: 1px solid #000000;
+    background: #616161;
 }
+
 
 #socials {
     

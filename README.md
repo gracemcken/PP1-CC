@@ -14,3 +14,4 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 - Instructions on how to add vertical lines between menu items were found [here on Stack Overflow](https://stackoverflow.com/questions/31140935/how-do-i-add-vertical-line-on-my-menu-item-in-html-css).
 - Idea for responsive hero image code came from [here] (https://codepen.io/njericooper/pen/NVRQLe).
 - I referenced [this](https://coder-coder.com/build-flexbox-website-layout/) to learn how to use flexbox to make a website responsive.
+- I referenced [this](https://techmemorise.blogspot.com/2020/05/responsive-image-slider-with-buttons.html) tutorial on how to make a slider with just HTML and CSS. This is featured on the home page.
