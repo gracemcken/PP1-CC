@@ -68,6 +68,17 @@ body {
 
 }
 
+#cover-text {
+    font-size: 100%;
+    font-family: 'Cormorant SC', serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    /* background-color: rgba(134, 179, 246, 0.3); */
+    position: absolute;
+    text-align: center;
+    left: 0;
+}
+
 .sidebar {
     border: 1px solid #000000;
     text-align: center;
