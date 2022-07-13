@@ -338,3 +338,16 @@ display: flex;
       margin-bottom: 20px;
     }
     }
+
+    @media screen and (min-width: 640px){
+        .flex-container {
+            display: flex;
+        }    
+    }
+    .where-we-are, .help {
+        flex: 1;
+    }
+    
+    .sidebar {
+        flex: 0 1 50%;
+    }
