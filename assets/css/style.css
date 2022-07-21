@@ -3,7 +3,7 @@
 main, header, section, aside, footer {
     margin: 0;
     padding: 20px;
-    /* border: 1px solid #000000; */
+    
     color: #3a3a3a;
 }
 
@@ -21,6 +21,13 @@ body {
  hr {
     color: #3a3a3a;
  }
+
+ /* flex */
+
+ .wrapper  {
+  margin: auto;
+  max-width: 75rem;
+}
 /* navigation bar */
 
 
@@ -73,8 +80,6 @@ body {
     font-family: 'Cormorant SC', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    /* background-color: rgba(134, 179, 246, 0.3); */
-    position: absolute;
     text-align: center;
     left: 0;
 }
@@ -237,7 +242,7 @@ body {
   
 
 .sidebar {
-    border: 1px solid #000000;
+    
     text-align: center;
 }
 
@@ -329,6 +334,7 @@ display: flex;
     color: silver;
   }
 
+
   /* media queries */
 
   @media (max-width:500px) {
@@ -351,3 +357,5 @@ display: flex;
     .sidebar {
         flex: 0 1 50%;
     }
+
+    
