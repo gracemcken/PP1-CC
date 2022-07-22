@@ -291,7 +291,7 @@ iframe {
 }
 #socials a {
     text-decoration: none;
-    color: #817F75;
+    color: #3a3a3a;
     
 }
 
@@ -309,7 +309,7 @@ iframe {
     float: left;
    font-size: 14px;
    word-spacing: 2px;
-   color: #817F75;
+   color: #3a3a3a
 }
 
 /* bottom menu in footer */
@@ -330,7 +330,7 @@ iframe {
   }
   
   .bottom-menu ul li a{
-    color: #817F75;
+    color: #3a3a3a;
     text-decoration: none;
   }
   
@@ -345,7 +345,7 @@ iframe {
     padding: 10px;
     font-family: sans-serif;
     color: #C5D9E2;
-    background: #817F75;
+    background: #3a3a3a;
     border-radius: 100px;
     position: sticky;
     bottom: 20px;
