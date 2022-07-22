@@ -69,7 +69,7 @@ body {
 }    
     /* hero image */
 .hero {
-    background: url(../images/dunes1.jpeg) no-repeat center center;
+    background: url(../images/dunes1.webp) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -166,15 +166,15 @@ body {
   }
   
   .slide-1 {
-    background-image: url(../images/football.jpeg)
+    background-image: url(../images/football.webp)
   }
   
   .slide-2 {
-    background-image: url(../images/swings.jpeg);
+    background-image: url(../images/swings.webp);
   }
   
   .slide-3 {
-    background-image: url(../images/coast-guard.jpeg);
+    background-image: url(../images/coast-guard.webp);
   }
   
   .slider .arrows {
@@ -235,7 +235,7 @@ body {
     margin: 0 6px;
     width: 25px;
     height: 25px;
-    background-color: #fff;
+    color: white;
   }
   
   .slider input:nth-child(1):checked ~ .dots label:nth-child(1),
