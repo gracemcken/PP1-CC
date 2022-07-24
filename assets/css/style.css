@@ -358,6 +358,7 @@ iframe {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    padding-left: 10px;
   }
   
   .image-gallery > li {

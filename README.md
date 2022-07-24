@@ -62,3 +62,4 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 - Idea for responsive hero image code came from [here] (https://codepen.io/njericooper/pen/NVRQLe).
 - I referenced [this](https://coder-coder.com/build-flexbox-website-layout/) to learn how to use flexbox to make a website responsive.
 - I referenced [this](https://techmemorise.blogspot.com/2020/05/responsive-image-slider-with-buttons.html) tutorial on how to make a slider with just HTML and CSS. This is featured on the home page.
+- Idea for responsive gallery came from [here](https://blog.logrocket.com/how-create-responsive-image-gallery-css-flexbox/).
