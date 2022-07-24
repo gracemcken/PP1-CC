@@ -57,10 +57,10 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <img src="assets/images/bottom-nav.png" alt="Screenshot of bottom nav bar">
 
 - __Back to Top Button__
-    - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible.
+    - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible. This was created with just CSS and HTML.
 
     <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button">    
-    
+
 
 ### Future Features
 
