@@ -29,6 +29,19 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
 ## Technologies Used
 
+ <a href="https://en.wikipedia.org/wiki/HTML"><img src="assets/images/html.png" alt="HTML logo" width="10%"></a> 
+ The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. HTML was used to construct the base of our website and structure.
+ <br>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img src="assets/images/css.png" alt="CSS logo" width="7.2%"></a> 
+ Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS was used to style my website and make it responsive. Using just CSS and HTML I created a slider gallery and gallery page.
+ <br>
+ <a href="https://fonts.google.com/"><img src="assets/images/google-fonts.png" alt="Google Fonts logo" width="10%"></a>
+ Google Fonts is a computer font and web font service owned by Google. I used it to import some fonts that I wanted to use on my website to make it look more visually appealing.
+ <br>
+ <a href="https://balsamiq.com/"><img src="assets/images/balsamiq.png" alt="Balsamiq logo" width="10%"></a>
+ Balsamiq is a wireframes tool used to construct basic mock ups. I used this to make a mock up of my site in mobile, tablet and desktop form.
+ <hr>
+
 ## Features
 
 ### Existing Features
@@ -36,6 +49,18 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     - The fully responsive navigation bar is featured in the upper left hand side of the website on each page, including Home, Gallery and Contact Us.
     - The current page you are on is underlined in the navigation bar, helping the user understand which part of the website they're on.
     - The access to each page in the navigation bar means using the back and forwards button on the user's browser is unneeded. 
+
+    <img src="assets/images/nav-bar.png" alt="Screenshot of nav bar">
+
+    - The nav bar is repeated in the footer to make sure navigation is always accessible. 
+
+    <img src="assets/images/bottom-nav.png" alt="Screenshot of bottom nav bar">
+
+- __Back to Top Button__
+    - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible.
+
+    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button">    
+    
 
 ### Future Features
 
