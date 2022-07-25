@@ -404,6 +404,61 @@ iframe {
   .image-gallery li:hover .overlay {
     transform: scale(1);
   }
+
+  /* Form */
+
+.form-section {
+  clear: left;
+  background: url(../images/waves.webp);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.signup-form {
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.6);
+  max-width: 400px;
+  
+  padding: 30px;
+  
+}
+
+.signup-form > h2 {
+  color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.text-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #fafafa;
+  border-radius: 2px;
+  
+}
+
+.text-input:hover {
+  border-color: #A5FFD6;
+}
+
+.join-button {
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 15px 32px 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #A5FFD6;
+  color: #3a3a3a;
+  display: block;
+}
+
+.join-button:hover {
+  background-color: #3a3a3a;
+  color: #A5FFD6;
+}
   
   /* media queries */
 
