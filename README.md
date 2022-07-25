@@ -50,16 +50,16 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     - The current page you are on is underlined in the navigation bar, helping the user understand which part of the website they're on.
     - The access to each page in the navigation bar means using the back and forwards button on the user's browser is unneeded. 
 
-    <img src="assets/images/nav-bar.png" alt="Screenshot of nav bar">
+    <img src="assets/images/nav-bar.png" alt="Screenshot of nav bar" width="50%">
 
     - The nav bar is repeated in the footer to make sure navigation is always accessible. 
 
-    <img src="assets/images/bottom-nav.png" alt="Screenshot of bottom nav bar">
+    <img src="assets/images/bottom-nav.png" alt="Screenshot of bottom nav bar" width="50%">
 
 - __Back to Top Button__
     - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible. This was created with just CSS and HTML.
-<br>
-    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button">   
+
+    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button" width="50%">   
     <br> 
 
 - __Slider__
@@ -68,19 +68,19 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
     <br>
 
-    <img src="assets/images/slider.png" alt="Screenshot of slider">
+    <img src="assets/images/slider.png" alt="Screenshot of slider" width="50%">
     <br>
 
 - __Map__
     - To show where Curracloe is located, I've included an iframe of Google Maps.
 
-    <img src="assets/images/map.png" alt="Screenshot of Google map">
+    <img src="assets/images/map.png" alt="Screenshot of Google map" width="50%">
     <br>
 
 - __Social media links__
     - In the footer, along with the copyright, I have also included links to social medias.
 
-    <img src="assets/images/socials.png" alt="Screenshot of social media icons">    
+    <img src="assets/images/socials.png" alt="Screenshot of social media icons" width="50%">    
     
 
 
@@ -88,9 +88,23 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
 ## Design
 
-### User Stories
-
 ### Wireframe
+
+ - __Desktop__
+
+ <img src="assets/images/desktop-wireframe.png" width="50%">
+ <br>
+
+ - __Tablet__
+
+ <img src="assets/images/tablet-wireframe.png" width="50%">
+
+<br>
+
+- __Mobile__
+
+<img src="assets/images/mobile-wireframe.png" width="50%">
+
 
 ### Typography
 
