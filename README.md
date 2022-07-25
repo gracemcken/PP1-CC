@@ -58,8 +58,17 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
 - __Back to Top Button__
     - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible. This was created with just CSS and HTML.
+<br>
+    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button">   
+    <br> 
 
-    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button">    
+- __Slider__
+    - On the home page there is a short gallery slider showcasing a few of the images that can be seen in the main gallery page.
+    - This was created using just HTML and CSS as well.
+
+    <br>
+
+    <img src="assets/images/slider.png" alt="Screenshot of slider">
 
 
 ### Future Features
