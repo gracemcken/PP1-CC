@@ -69,6 +69,19 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <br>
 
     <img src="assets/images/slider.png" alt="Screenshot of slider">
+    <br>
+
+- __Map__
+    - To show where Curracloe is located, I've included an iframe of Google Maps.
+
+    <img src="assets/images/map.png" alt="Screenshot of Google map">
+    <br>
+
+- __Social media links__
+    - In the footer, along with the copyright, I have also included links to social medias.
+
+    <img src="assets/images/socials.png" alt="Screenshot of social media icons">    
+    
 
 
 ### Future Features
