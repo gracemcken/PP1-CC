@@ -69,7 +69,7 @@ body {
 }    
     /* hero image */
 .hero {
-    background: url(../images/dunes1.webp) no-repeat center center;
+    background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478765/pp1/dunes1_fooa6e.webp) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -166,15 +166,15 @@ body {
   }
   
   .slide-1 {
-    background-image: url(../images/football.webp)
+    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478823/pp1/football_kmtprt.webp)
   }
   
   .slide-2 {
-    background-image: url(../images/swings.webp);
+    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478779/pp1/swings_d9ti8r.webp);
   }
   
   .slide-3 {
-    background-image: url(../images/coast-guard.webp);
+    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478956/pp1/coast-guard_bxfa7b.webp);
   }
   
   .slider .arrows {
@@ -409,17 +409,17 @@ iframe {
 
 .form-section {
   clear: left;
-  background: url(../images/waves.webp);
+  background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478738/pp1/waves_cka6ko.webp);
   background-size: cover;
   background-position: center;
   height: 500px;
+  position: relative;
 }
 
 .signup-form {
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
-  
   padding: 30px;
   
 }
@@ -450,7 +450,7 @@ iframe {
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #A5FFD6;
+  background-color: #C5D9E2;
   color: #3a3a3a;
   display: block;
 }
@@ -468,19 +468,29 @@ iframe {
       margin-top: 10px;
       margin-bottom: 20px;
     }
+    
     }
 
     @media screen and (min-width: 640px){
         .flex-container {
             display: flex;
         }    
-    }
-    .where-we-are, .help {
-        flex: 1;
-    }
-    
-    .sidebar {
+        .signup-form {
+          top: 10%;
+          left: 30%;
+          position: absolute;
+        }
+
+        .where-we-are, .help {
+          flex: 1;
+      }
+      .sidebar {
         flex: 0 1 50%;
     }
+    }
+    
+    
+    
+    
 
     
