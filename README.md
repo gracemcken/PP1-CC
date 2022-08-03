@@ -113,6 +113,8 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 ### Colour Scheme
 
 ## Testing
+When initially put through Lighthouse, performance was continuously on a lower score. In an attempt to fix this, I hosted my images on cloudinary and used that as my image source. However this seemed to decrease performance even further on my index page and created an issue with cookies in the best practices score, which the site had been scoring 100 on previously.
+
 
 ### Validator Testing
 
