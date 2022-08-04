@@ -420,7 +420,7 @@ iframe {
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   max-width: 400px;
-  padding: 30px;
+  padding: 10px;
   
 }
 
@@ -441,7 +441,7 @@ iframe {
 }
 
 .text-input:hover {
-  border-color: #A5FFD6;
+  border-color: #C5D9E2;
 }
 
 .join-button {
@@ -457,7 +457,7 @@ iframe {
 
 .join-button:hover {
   background-color: #3a3a3a;
-  color: #A5FFD6;
+  color: #C5D9E2;
 }
   
   /* media queries */
