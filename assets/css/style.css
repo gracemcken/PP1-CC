@@ -413,19 +413,14 @@ iframe {
   background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478738/pp1/waves_cka6ko.webp);
   background-size: cover;
   background-position: center;
-  height: 40rem;
+  height: 30rem;
   
 }
 
-
-
 .signup-form {
-  
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
-  
   padding: 10px;
-  
 }
 
 .signup-form > h2 {
