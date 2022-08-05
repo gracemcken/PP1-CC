@@ -408,18 +408,22 @@ iframe {
   /* Form */
 
 .form-section {
+  display: grid;
   clear: left;
   background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478738/pp1/waves_cka6ko.webp);
   background-size: cover;
   background-position: center;
-  height: 500px;
-  position: relative;
+  height: 40rem;
+  
 }
 
+
+
 .signup-form {
+  
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
-  max-width: 400px;
+  
   padding: 10px;
   
 }
@@ -469,23 +473,27 @@ iframe {
       margin-bottom: 20px;
     }
     
-    }
-
+  }
     @media screen and (min-width: 640px){
         .flex-container {
             display: flex;
         }    
-        .signup-form {
-          top: 10%;
-          left: 30%;
-          position: absolute;
-        }
-
+       
         .where-we-are, .help {
           flex: 1;
       }
       .sidebar {
         flex: 0 1 50%;
+    }
+    .form-section {
+      display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    .signup-form {
+      grid-area: 2 / 2 / 3 / 4;
     }
     }
     
