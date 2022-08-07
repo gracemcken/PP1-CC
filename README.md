@@ -119,6 +119,13 @@ When initially put through Lighthouse, performance was continuously on a lower s
 
 ### Bugs
 
+- A major bug I encountered was with my contact page, where there was a large white section below my footer appearing when testing for several devices. See below:
+
+<img src="assets/images/contact-bug.png" width="50%">
+
+
+I fixed this by changing the form section height to 100vh, which was suggested by fellow students on Slack.
+
 ## Credits
 - Instructions on how to add vertical lines between menu items were found [here on Stack Overflow](https://stackoverflow.com/questions/31140935/how-do-i-add-vertical-line-on-my-menu-item-in-html-css).
 - Idea for responsive hero image code came from [here] (https://codepen.io/njericooper/pen/NVRQLe).
