@@ -142,10 +142,6 @@ body {
     overflow: hidden;
 }
 
-
-iframe {
-    width: 100%;
-}
 /* footer */
 .footer {
     display: flex;
