@@ -230,9 +230,11 @@ body {
   }
   
 .sidebar {
-    
     text-align: center;
+    overflow: hidden;
 }
+
+
 iframe {
     width: 100%;
 }
