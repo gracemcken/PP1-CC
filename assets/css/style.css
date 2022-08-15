@@ -425,6 +425,11 @@ iframe {
       margin-bottom: 20px;
     }
     
+    #menu {
+      font-size: 90%;
+    }
+   
+   
   }
     @media screen and (min-width: 640px){
         .flex-container {
@@ -443,8 +448,22 @@ iframe {
     grid-template-rows: repeat(3, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+    height: 100%;
     }
     .signup-form {
       grid-area: 2 / 2 / 3 / 4;
+    }
+
+    .footer {
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2%;
+    background: #C5D9E2;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     }
     }
