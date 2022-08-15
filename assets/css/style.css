@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&family=Proza+Libre&display=swap');
-
 main, header, section, aside, footer {
     margin: 0;
     padding: 20px;
     
     color: #3a3a3a;
 }
-
 body {
     font-family: 'Proza Libre', sans-serif;
     font-weight: 400;
@@ -17,20 +15,15 @@ body {
     font-weight: 500;
     color: #3a3a3a;
  }
-
  hr {
     color: #3a3a3a;
  }
-
  /* flex */
-
  .wrapper  {
   margin: auto;
   max-width: 75rem;
 }
 /* navigation bar */
-
-
 #menu {
     font-size: 110%;
     letter-spacing: 0.1em;
@@ -40,21 +33,17 @@ body {
     display: inline-flex;
     justify-content: flex-end;
 }
-
 #menu li {
     
     list-style-type: none;
 }
-
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-
 .header {
   padding-left: 10px;
 }
-
 .header > ul li:not(:last-child):after {
     content: "|";
     padding-left: .1em;
@@ -69,16 +58,14 @@ body {
 }    
     /* hero image */
 .hero {
-    background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478765/pp1/dunes1_fooa6e.webp) no-repeat center center;
+    background: url('../images/dunes1.webp') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
     flex-direction: column;
     min-height: 30em;
     height: 60%;
-
 }
-
 #cover-text {
     font-size: 100%;
     font-family: 'Cormorant SC', serif;
@@ -87,10 +74,7 @@ body {
     text-align: center;
     left: 0;
 }
-
 /* slider */
-
-
 .slider {
     position: relative;
     width: 100%;
@@ -166,15 +150,15 @@ body {
   }
   
   .slide-1 {
-    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478823/pp1/football_kmtprt.webp)
+    background-image: url('../images/football.webp')
   }
   
   .slide-2 {
-    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478779/pp1/swings_d9ti8r.webp);
+    background-image: url('../images/swings.webp');
   }
   
   .slide-3 {
-    background-image: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478956/pp1/coast-guard_bxfa7b.webp);
+    background-image: url('../images/coast-guard.webp');
   }
   
   .slider .arrows {
@@ -245,19 +229,14 @@ body {
     border: 2px solid #fff;
   }
   
-
 .sidebar {
     
     text-align: center;
 }
-
 iframe {
     width: 100%;
 }
-
 /* footer */
-
-
 .footer {
     display: flex;
     align-items: center;
@@ -266,8 +245,6 @@ iframe {
     padding: 2%;
     background: #C5D9E2;
 }
-
-
 #socials {
     
     display: flex;
@@ -276,13 +253,11 @@ iframe {
     margin: 1rem 0 3rem 0;
     text-align: center;
 }
-
 #socials > ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
-
 #socials li {
     display: inline-flex;
     padding-right: 1em;
@@ -294,26 +269,21 @@ iframe {
     color: #3a3a3a;
     
 }
-
 #socials i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
 }
-
 #socials a:hover {
     color: silver;
 }
-
 .copyright {
     float: left;
    font-size: 14px;
    word-spacing: 2px;
    color: #3a3a3a
 }
-
 /* bottom menu in footer */
-
 .bottom-menu{
     float: right;
   }
@@ -337,9 +307,7 @@ iframe {
   .bottom-menu ul li a:hover{
     color: silver;
   }
-
   /* back to top button */
-
   .top-button {
     text-decoration: none;
     padding: 10px;
@@ -350,11 +318,8 @@ iframe {
     position: sticky;
     bottom: 20px;
     left: 20px;
-    scroll-behavior: smooth;
   }
-
   /* gallery */
-
   .image-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -377,12 +342,10 @@ iframe {
     vertical-align: middle;
     border-radius: 5px;
   }
-
   .image-gallery::after {
     content: "";
     flex-grow: 999;
   }
-
   .overlay {
     position: absolute;
     width: 100%;
@@ -405,30 +368,25 @@ iframe {
   .image-gallery li:hover .overlay {
     transform: scale(1);
   }
-
   /* Form */
-
 .form-section {
   display: grid;
   clear: left;
-  background: url(https://res.cloudinary.com/dqjkiar31/image/upload/v1659478738/pp1/waves_cka6ko.webp);
+  background: url('../images/waves.jpg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 30rem;
   
 }
-
 .signup-form {
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   padding: 10px;
 }
-
 .signup-form > h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
-
 .text-input {
   background: transparent;
   color: #fafafa;
@@ -439,11 +397,9 @@ iframe {
   border-radius: 2px;
   
 }
-
 .text-input:hover {
   border-color: #C5D9E2;
 }
-
 .join-button {
   margin-top: 20px;
   border-radius: 2px;
@@ -454,14 +410,12 @@ iframe {
   color: #3a3a3a;
   display: block;
 }
-
 .join-button:hover {
   background-color: #3a3a3a;
   color: #C5D9E2;
 }
   
   /* media queries */
-
   @media (max-width:500px) {
     .footer-menu ul{
       display: flex;
@@ -492,9 +446,3 @@ iframe {
       grid-area: 2 / 2 / 3 / 4;
     }
     }
-    
-    
-    
-    
-
-    
