@@ -281,13 +281,14 @@ body {
   background: url('../images/waves.jpg');
   background-size: cover;
   background-position: center;
-  height: 30rem;
+  height: 100vh;
   
 }
 .signup-form {
   color: #fff;
   background-color: rgba(60, 60, 60, 0.6);
   padding: 10px;
+  height: fit-content;
 }
 .signup-form > h2 {
   color: #fafafa;
@@ -352,7 +353,7 @@ body {
     grid-template-rows: repeat(3, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-    height: 100%;
+    
     }
     .signup-form {
       grid-area: 2 / 2 / 3 / 4;
