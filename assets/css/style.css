@@ -127,7 +127,7 @@ body {
 
 .visuallyhidden {
   border: 0;
-  clip: rect(0 0 0 0);
+  clip-path: none;
   height: 1px;
   margin: -1px;
   overflow: hidden;

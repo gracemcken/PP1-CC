@@ -180,7 +180,19 @@ When initially put through Lighthouse, performance was continuously on a lower s
 <img src="readme-images/contact-checked1.png">
 
 <br>
-The intial check of the Contact page showed up one error of a stray '<div>' tag. Once I located it, I ran it through the validator again.
+The intial check of the Contact page showed up one error of a stray div tag. Once I located it, I ran it through the validator again.
+
+<img src="readme-images/contact-checked2.png">
+
+- __CSS__
+
+<img src="readme-images/css-checked.png">
+
+Although my CSS file passed with no errors, I did get two warnings as shown below:
+
+<img src="readme-images/css-warnings.png">
+
+I went back into my CSS, identified and fixed the issue by changing `clip` to `clip path` and adding commas.
 
 ### Bugs
 
