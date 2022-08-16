@@ -144,10 +144,20 @@ I used Balsamiq to construct my wireframes for this project. These are my initia
 
 
 ### Typography
+- For my main body text I used 'Proza Libre', a sans-serif font. I felt this font was simplistic enough to not take away from the imagery used, but was also stylishly minimalistic.
+- For my headings, I used 'Cormorant SC', a serif font. I thought this font demanded attention without being too bold. It gives a sophisticated and historical feel to the website.
+- Both fonts were imported from Google Fonts.
 
 ### Images
+I wanted to keep in the theme of the sand and ocean for my imagery, which is what Curracloe is well known for.
+Both the hero image and contact form background image were taken from [pexels.com](pexels.com). All other images are from the [Curracloe Chronicles](https://www.facebook.com/Curracloe-Chronicles-2018719595076559) facebook page, which I admin and my father owns. Some of these images come from locals, and some of the scenic photos were taken by myself or my father.
 
 ### Colour Scheme
+- When choosing the colour scheme, I wanted to keep with the ocean and sand theme I had with my images. 
+- Using [Coolors](https://www.coolors.co/) I created a colour palette that worked with my theme. 
+- I ended up using these colours in my CSS to style the footer and buttons.
+
+<img src="readme-images/colour-palette.png" alt="Colour palette" width="50%">
 
 ## Testing
 When initially put through Lighthouse, performance was continuously on a lower score. In an attempt to fix this, I hosted my images on cloudinary and used that as my image source. However this seemed to decrease performance even further on my index page and created an issue with cookies in the best practices score, which the site had been scoring 100 on previously.
