@@ -12,7 +12,7 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     * [Future Features](#future-features)
 * [Design](#design) 
     * [User Stories](#user-stories)
-    * [Wireframe](#wireframe)
+    * [Wireframes](#wireframes)
     * [Typography](#typography)
     * [Images](#images)
     * [Colour Scheme](#colour-scheme)
@@ -43,7 +43,7 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
  I used Balsamiq to make a mock up of my site in mobile, tablet and desktop form.
  <hr>
 
-[Got to TOP](#table-of-contents)
+[Go to TOP](#table-of-contents)
      
 ## Features
 
@@ -91,30 +91,56 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 - __Social media links__
     - In the footer, along with the copyright, I have also included links to social medias.
 
-    <img src="readme-images/socials.png" alt="Screenshot of social media icons" width="50%">    
+    <img src="readme-images/socials.png" alt="Screenshot of social media icons" width="50%">  
+    <br>
+
+- __Gallery__
+    - On the Gallery page, I have created a small selection of images, that when hovered over on desktop, show relevent information.
+    - On hand held devices, the information is shown when the images are tapped.
+
+    <img src="readme-images/gallery.png" alt="Screenshot of gallery images" width="50%">
+    <br>
+    <img src="readme-images/gallery-info.png" alt="Screenshot of gallery image with information visible" width="50%">
+    <br>
+
+- __Contact Form__
+    -  On the Contact Us page, there is a contact form in which you can input your first and last name, your email and your message to the website. 
+
+    <img src="readme-images/contact-page.png" alt="Screenshot of contact form" width="50%">
+    <br>
     
+    - If you sucessfully fill out the form with your name, email and message, you will be redirected to a page that shows that the code works. 
+    - This is not how I would like the user to be redirected in the final version of the website, but for the sake of this project I have left it as is.
+
+    <img src="readme-images/formdump.png" alt="Screenshot of form confirmation" width="50%">
+    <br>
 
 
 ### Future Features
+- I would like to create a thank you page for the user to be redirected to once they complete the contact form in the future. I hope to do this once I learn beyond HTML and CSS.
+- I would also like to add the ability to upload images or documents through the contact page, allowing people to submit items for the website to feature. Again, I believe this is something I may be able to do once I progress through the course and extend my knowledge.
+- I would like to find a way to embed Google Maps into my page without getting errors with lighthouse testing. I'm not sure if this is something I can accomplish with more knowledge and time, but it is something I would like to look into for the future.
+
+<hr>
 
 ## Design
 
-### Wireframe
-
+### Wireframes
+I used Balsamiq to construct my wireframes for this project. These are my initial rough ideas and don't necessarily reflect the finished website.
  - __Desktop__
 
- <img src="assets/images/desktop-wireframe.png" width="50%">
+ <img src="readme-images/desktop-wireframe.png" width="50%">
  <br>
 
  - __Tablet__
 
- <img src="assets/images/tablet-wireframe.png" width="50%">
+ <img src="readme-images/tablet-wireframe.png" width="50%">
 
 <br>
 
 - __Mobile__
 
-<img src="assets/images/mobile-wireframe.png" width="50%">
+<img src="readme-images/mobile-wireframe.png" width="50%">
 
 
 ### Typography
