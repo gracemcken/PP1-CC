@@ -27,19 +27,19 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
 
 ## Technologies Used
 
- * <a href="https://en.wikipedia.org/wiki/HTML"><img src="assets/images/html.png" alt="HTML logo" width="10%"></a> 
+ * <a href="https://en.wikipedia.org/wiki/HTML"><img src="readme-images/html.png" alt="HTML logo" width="10%"></a> 
  HTML was used to construct the base of our website and structure.
  <br>
 
- * <a href="https://en.wikipedia.org/wiki/CSS"><img src="assets/images/css.png" alt="CSS logo" width="7.2%"></a> 
+ * <a href="https://en.wikipedia.org/wiki/CSS"><img src="readme-images/css.png" alt="CSS logo" width="7.2%"></a> 
  CSS was used to style my website and make it responsive. Using just CSS and HTML I created a slider gallery and gallery page.
  <br>
 
- * <a href="https://fonts.google.com/"><img src="assets/images/google-fonts.png" alt="Google Fonts logo" width="10%"></a>
+ * <a href="https://fonts.google.com/"><img src="readme-images/google-fonts.png" alt="Google Fonts logo" width="10%"></a>
  I used Google Fonts to import some fonts that I wanted to use on my website to make it look more visually appealing.
  <br>
 
- * <a href="https://balsamiq.com/"><img src="assets/images/balsamiq.png" alt="Balsamiq logo" width="10%"></a>
+ * <a href="https://balsamiq.com/"><img src="readme-images/balsamiq.png" alt="Balsamiq logo" width="10%"></a>
  I used Balsamiq to make a mock up of my site in mobile, tablet and desktop form.
  <hr>
 
@@ -53,37 +53,45 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     - The current page you are on is underlined in the navigation bar, helping the user understand which part of the website they're on.
     - The access to each page in the navigation bar means using the back and forwards button on the user's browser is unneeded. 
 
-    <img src="assets/images/nav-bar.png" alt="Screenshot of nav bar" width="50%">
+    <img src="readme-images/nav-bar.png" alt="Screenshot of nav bar" width="50%">
 
     - The nav bar is repeated in the footer to make sure navigation is always accessible. 
 
-    <img src="assets/images/bottom-nav.png" alt="Screenshot of bottom nav bar" width="50%">
+    <img src="readme-images/bottom-nav.png" alt="Screenshot of bottom nav bar" width="50%">
+
+- __Hero Image__
+    - The hero image is of an eye catching sand dune and sky, that stays fixed as you scroll.
+    - It includes two headings to describe to name and summary of what the website entails.
+
+    <img src="readme-images/hero-image.png" alt="Screenshot of hero image" width="50%">   
 
 - __Back to Top Button__
-    - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. This button is static on the page, regardless of how much you scroll so it is always accessible. This was created with just CSS and HTML.
+    - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. 
+    - This button is static on the page, regardless of how much you scroll so it is always accessible. 
+    - This was created with just CSS and HTML.
 
-    <img src="assets/images/back-to-top.png" alt="Screenshot of back to top button" width="50%">   
+    <img src="readme-images/back-to-top.png" alt="Screenshot of back to top button" width="50%">   
     <br> 
 
 - __Slider__
-    - On the home page there is a short gallery slider showcasing a few of the images that can be seen in the main gallery page.
-    - This was created using just HTML and CSS as well.
+    - On the home page there is a short gallery slider showcasing a few of the images belonging to the website, giving the user a brief idea of what to expect in the full gallery.
+    - This was created using just HTML and CSS as well. Resources used for this are linked in the [credits](#credits) section.
 
     <br>
 
-    <img src="assets/images/slider.png" alt="Screenshot of slider" width="50%">
+    <img src="readme-images/slider.png" alt="Screenshot of slider" width="50%">
     <br>
 
 - __Map__
-    - To show where Curracloe is located, I've included an iframe of Google Maps.
+    - To show where Curracloe is located, I've included a still image of it's location on google maps.
 
-    <img src="assets/images/map.png" alt="Screenshot of Google map" width="50%">
+    <img src="readme-images/map.png" alt="Screenshot of Google map" width="50%">
     <br>
 
 - __Social media links__
     - In the footer, along with the copyright, I have also included links to social medias.
 
-    <img src="assets/images/socials.png" alt="Screenshot of social media icons" width="50%">    
+    <img src="readme-images/socials.png" alt="Screenshot of social media icons" width="50%">    
     
 
 
