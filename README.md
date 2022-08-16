@@ -172,6 +172,10 @@ Both the hero image and contact form background image were taken from [pexels.co
 ### Manual Testing
 When initially put through Lighthouse, performance was continuously on a lower score. In an attempt to fix this, I hosted my images on cloudinary and used that as my image source. However this seemed to decrease performance even further on my index page and created an issue with cookies in the best practices score, which the site had been scoring 100 on previously. In the end with the help of my mentor, I was able to resize my images and hosted them once again directly from gitpod instead of cloudinary.
 
+### Lighthouse Testing
+
+<img src="readme-images/desktop-lighthouse.png">
+
 [Go to TOP](#table-of-contents)
 
 ### Validator Testing
