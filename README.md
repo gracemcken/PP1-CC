@@ -167,6 +167,21 @@ When initially put through Lighthouse, performance was continuously on a lower s
 
 ### Validator Testing
 
+- __Index Page__
+
+<img src="readme-images/index-checked.png">
+
+- __Gallery Page__
+
+<img src="readme-images/gallery-checked.png">
+
+- __Contact Page__
+
+<img src="readme-images/contact-checked1.png">
+
+<br>
+The intial check of the Contact page showed up one error of a stray '<div>' tag. Once I located it, I ran it through the validator again.
+
 ### Bugs
 
 - A major bug I encountered was with my contact page, where there was a large white section below my footer appearing when testing for several devices. See below:
