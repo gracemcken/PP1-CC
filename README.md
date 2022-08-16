@@ -160,7 +160,9 @@ Both the hero image and contact form background image were taken from [pexels.co
 <img src="readme-images/colour-palette.png" alt="Colour palette" width="50%">
 
 ## Testing
-When initially put through Lighthouse, performance was continuously on a lower score. In an attempt to fix this, I hosted my images on cloudinary and used that as my image source. However this seemed to decrease performance even further on my index page and created an issue with cookies in the best practices score, which the site had been scoring 100 on previously.
+
+### Manual Testing
+When initially put through Lighthouse, performance was continuously on a lower score. In an attempt to fix this, I hosted my images on cloudinary and used that as my image source. However this seemed to decrease performance even further on my index page and created an issue with cookies in the best practices score, which the site had been scoring 100 on previously. In the end with the help of my mentor, I was able to resize my images and hosted them once again directly from gitpod instead of cloudinary.
 
 
 ### Validator Testing
@@ -169,14 +171,14 @@ When initially put through Lighthouse, performance was continuously on a lower s
 
 - A major bug I encountered was with my contact page, where there was a large white section below my footer appearing when testing for several devices. See below:
 
-<img src="assets/images/contact-bug.png" width="50%">
+<img src="readme-images/contact-bug.png" width="50%">
 
 
 I fixed this by changing the form section height to 100vh, which was suggested by fellow students on Slack.
 
 ## Credits
 - Instructions on how to add vertical lines between menu items were found [here on Stack Overflow](https://stackoverflow.com/questions/31140935/how-do-i-add-vertical-line-on-my-menu-item-in-html-css).
-- Idea for responsive hero image code came from [here] (https://codepen.io/njericooper/pen/NVRQLe).
+- Idea for responsive hero image code came from [here](https://codepen.io/njericooper/pen/NVRQLe)
 - I referenced [this](https://coder-coder.com/build-flexbox-website-layout/) to learn how to use flexbox to make a website responsive.
 - I referenced [this](https://techmemorise.blogspot.com/2020/05/responsive-image-slider-with-buttons.html) tutorial on how to make a slider with just HTML and CSS. This is featured on the home page.
-- Idea for responsive gallery came from [here](https://blog.logrocket.com/how-create-responsive-image-gallery-css-flexbox/).
+- Idea for responsive gallery came from [here](https://blog.logrocket.com/how-create-responsive-image-gallery-css-flexbox/) 
