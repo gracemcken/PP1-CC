@@ -1,4 +1,5 @@
 # Curracloe Chronicles
+![amiresponsive](./readme-images/responsive.png)
 # Site Overview
 Curracloe Chronicles is a website that serves as a hub of information about the village of Curracloe in County Wexford, Ireland. Initially just a Facebook page, it was set up in the hope of preserving our local history and sharing memories among the community. This site is aimed at locals, tourists, and also people who have emigrated away who just miss home. This website was created as part of my Portfolio Project 1 with the Code Institute, for a Full Stack Software Developer diploma.
 # Table of Contents
