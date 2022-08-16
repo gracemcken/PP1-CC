@@ -225,6 +225,11 @@ body {
     bottom: 20px;
     left: 20px;
   }
+  /* gallery heading */
+
+  .gallery-heading {
+    text-align: center;
+  }
   /* gallery */
   .image-gallery {
     display: flex;
