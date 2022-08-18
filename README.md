@@ -271,6 +271,13 @@ I fixed this by changing the form section height to 100vh, which was suggested b
 
 <hr>
 
+## Deployment
+Curracloe Chronicles was deployed on Github pages. To do this, I:
+- Went to the project's repository and navigated to the 'Settings' tab in the far right.
+- I scrolled down to the 'Code and automation' section and clicked into the 'Pages' tab.
+- Under 'source', I used the drop down menu to select 'main' and then clicked save.
+- I then received a message indicating the deployment had been successful.
+
 ## Credits
 - Instructions on how to add vertical lines between menu items were found [here on Stack Overflow](https://stackoverflow.com/questions/31140935/how-do-i-add-vertical-line-on-my-menu-item-in-html-css).
 - Idea for responsive hero image code came from [here](https://codepen.io/njericooper/pen/NVRQLe)
