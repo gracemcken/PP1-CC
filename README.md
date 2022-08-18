@@ -285,3 +285,4 @@ Curracloe Chronicles was deployed on Github pages. To do this, I:
 - I referenced [this](https://markus.oberlehner.net/blog/super-simple-progressively-enhanced-carousel-with-css-scroll-snap/) tutorial on how to make a slider with just HTML and CSS. This is featured on the home page.
 - Idea for responsive gallery came from [here](https://blog.logrocket.com/how-create-responsive-image-gallery-css-flexbox/) 
 - Idea for footer came from [here](https://www.foolishdeveloper.com/2021/09/responsive-footer-design.html)
+- Favicon came from [here](https://www.favicon.cc/?action=icon&file_id=781543)
