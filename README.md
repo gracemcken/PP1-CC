@@ -261,6 +261,12 @@ I went back into my CSS, identified and fixed the issue by changing `clip` to `c
 
 I fixed this by changing the form section height to 100vh, which was suggested by fellow students on Slack.
 
+- Another bug I experienced was when viewing the slider on mobile, the first two images were cut off short. I was unsure of how to fix this while maintaining the aspect ratio of the images on such a small screen.
+ 
+ <img src="readme-images/slider-chop.png" width="50%">
+
+ <br>
+
 [Go to TOP](#table-of-contents)
 
 <hr>
