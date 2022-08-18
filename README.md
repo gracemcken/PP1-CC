@@ -7,6 +7,7 @@
 Curracloe Chronicles is a website that serves as a hub of information about the village of Curracloe in County Wexford, Ireland. Initially just a Facebook page, it was set up in the hope of preserving our local history and sharing memories among the community. This site is aimed at locals, tourists, and also people who have emigrated away who just miss home. This website was created as part of my Portfolio Project 1 with the Code Institute, for a Full Stack Software Developer diploma.
 # Table of Contents
 * [Technologies Used](#technologies-used)
+* [User Stories](#user-stories)
 * [Features](#features)
     * [Existing Features](#existing-features)
     * [Future Features](#future-features)
@@ -17,6 +18,8 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     * [Images](#images)
     * [Colour Scheme](#colour-scheme)
 * [Testing](#testing)
+    * [Manual Testing](#manual-testing)
+    * [Lighthouse Testing](#lighthouse-testing)
     * [Validator Testing](#validator-testing)
     * [Bugs](#bugs)  
 * [Credits](#credits)  
@@ -44,11 +47,33 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
  <hr>
 
 [Go to TOP](#table-of-contents)
+
+<hr>
+
+## User Experience (UX)
+### Target Audience
+- Locals of Curracloe and Wexford who want to reminisce and remember years gone by in their community.
+- Children and grandchildren of emigrants who want to see their family's history.
+- Both amataur and professional historians searching for information on a more localised level.
+- People interested in the area.
+
+### User Stories
+- As a user, I want to find out what the website is about as soon as I land on the home page.
+- As a user, I want to be able to navigate the website easily without getting lost and having to scroll to find my place.
+- As a user, I want to find out the relevent information about the organisation without having to search too long.
+- As a user, I want to be able to find out how to contribute towards the website.
+- As a user, I want to be able to contact the website owner with ease.
+- As a user, I want to see a sneak peak of the pictures available without having to go to another page.
+- As a user, I want to be able to see more information about images in the gallery.
+
+<hr>
+
      
 ## Features
 
 ### Existing Features
 - __Navigation Bar__
+    - Relevent user story: *As a user, I want to be able to navigate the website easily without getting lost and having to scroll to find my place.*
     - The fully responsive navigation bar is featured in the upper left hand side of the website on each page, including Home, Gallery and Contact Us.
     - The current page you are on is underlined in the navigation bar, helping the user understand which part of the website they're on.
     - The access to each page in the navigation bar means using the back and forwards button on the user's browser is unneeded. 
@@ -60,12 +85,14 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <img src="readme-images/bottom-nav.png" alt="Screenshot of bottom nav bar" width="50%">
 
 - __Hero Image__
+    - Relevent user story: *As a user, I want to find out what the website is about as soon as I land on the home page.*
     - The hero image is of an eye catching sand dune and sky, that stays fixed as you scroll.
     - It includes two headings to describe to name and summary of what the website entails.
 
     <img src="readme-images/hero-image.png" alt="Screenshot of hero image" width="50%">   
 
 - __Back to Top Button__
+    - Relevent user story: *As a user, I want to be able to navigate the website easily without getting lost and having to scroll to find my place.*
     - In the bottom left-hand corner of the screen there is a 'back-to-top' button. When clicked it will transport the user back to the beginning of the page. 
     - This button is static on the page, regardless of how much you scroll so it is always accessible. 
     - This was created with just CSS and HTML.
@@ -74,6 +101,7 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <br> 
 
 - __Slider__
+    - Relevent user story: *As a user, I want to see a sneak peak of the pictures available without having to go to another page.*
     - On the home page there is a short gallery slider showcasing a few of the images belonging to the website, giving the user a brief idea of what to expect in the full gallery.
     - This was created using just HTML and CSS as well. Resources used for this are linked in the [credits](#credits) section.
 
@@ -82,19 +110,33 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <img src="readme-images/slider.png" alt="Screenshot of slider" width="50%">
     <br>
 
+- __Information Sections__
+    - Relevent user stories: *As a user, I want to find out the relevent information about the organisation without having to search too long.* & *As a user, I want to be able to find out how to contribute towards the website.*
+    - To give the user all the information needed about Curracloe Chronicles, I have included two sections.
+    - The first is above the slider and let's the user know what Curracloe Chronicles is.
+
+    ![who-we-are](./readme-images/who.png)    
+
+    - Then below the slider, alongside the map, there is a two parter section detailing how the user can contribute to the project and where to find the area mentioned.
+
+    ![how-and-where](./readme-images/want-where.png)
+
 - __Map__
+    - Relevent user story: *As a user, I want to find out the relevent information about the organisation without having to search too long.*
     - To show where Curracloe is located, I've included a still image of it's location on google maps.
 
     <img src="readme-images/map.png" alt="Screenshot of Google map" width="50%">
     <br>
 
 - __Social media links__
+    - Relevent user story: *As a user, I want to be able to contact the website owner with ease.*
     - In the footer, along with the copyright, I have also included links to social medias.
 
     <img src="readme-images/socials.png" alt="Screenshot of social media icons" width="50%">  
     <br>
 
 - __Gallery__
+    - Relevent user story: *As a user, I want to be able to see more information about images in the gallery.*
     - On the Gallery page, I have created a small selection of images, that when hovered over on desktop, show relevent information.
     - On hand held devices, the information is shown when the images are tapped.
 
@@ -104,6 +146,7 @@ Curracloe Chronicles is a website that serves as a hub of information about the 
     <br>
 
 - __Contact Form__
+    - Relevent user story: *As a user, I want to be able to contact the website owner with ease.*
     -  On the Contact Us page, there is a contact form in which you can input your first and last name, your email and your message to the website. 
 
     <img src="readme-images/contact-page.png" alt="Screenshot of contact form" width="50%">
